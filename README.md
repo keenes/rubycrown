@@ -21,4 +21,7 @@ acesstoken number :
 
 ________________________________________
  
+ creer une gem from branch éventuellement suivie de /default/
+ verifier on octokit repo
+ 
  
