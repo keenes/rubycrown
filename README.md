@@ -13,6 +13,12 @@ Client ID: 4b83bf2a14
  GitHub for Windows
 	SourceForge
 	
-	____________________________________________
+_________________________________________
+
+used to access the GitHub API.
+
+acesstoken number :
+
+________________________________________
  
  
