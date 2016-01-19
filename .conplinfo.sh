@@ -1,4 +1,0 @@
-#!/Documents/c_folder/
-#
-#
-#
