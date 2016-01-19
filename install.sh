@@ -1,6 +1,5 @@
 #!/Ruby22/bin/ruby
 #
 #
-irb
-4+7
+echo 4 + 7
 
