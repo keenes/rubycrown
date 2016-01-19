@@ -4,3 +4,4 @@
 DISPLAY = 0:0
 echo $PATH
 
+
